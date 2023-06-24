@@ -16,7 +16,7 @@ In the early days of the Bureau, there were three primary departments, each play
 
 **2. Department of Integration & Relocation:** Once the research was carried out, the data was passed on to this department. Their job was to ensure the safe integration of non-human races into society where possible, or to relocate them to safe zones where they could exist undisturbed. Their work was crucial in maintaining peace and preventing further mass hysteria.
 
-**3. Department of Public Relations:** This department had the challenging task of managing the public's perception of the non-human races. They worked tirelessly to quell fears and promote acceptance and understanding among the general public.
+**3. Department of Public Relations:** This department had the challenging task of managing the public's perception of the non-human races. They worked tirelessly to quell fears and disseminate false information that they were in fact all eradicated.
 
 ## **The Addition of Other Departments**
 
