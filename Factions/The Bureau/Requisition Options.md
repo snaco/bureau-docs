@@ -18,7 +18,7 @@
 
 9. **Satellite Phone:** A reliable method of communication with headquarters, useful for when cellular signal is not available.
 
-10. **Portable Filesystem:** Tesla-tech with access to Bureau research and analysis in the field. 
+10. **Portable Archive:** Tesla-tech with access to Bureau research and analysis in the field. 
 
 11. **Evidence Collection Kit:** For the gathering and preservation of anomalous material or evidence.
 
