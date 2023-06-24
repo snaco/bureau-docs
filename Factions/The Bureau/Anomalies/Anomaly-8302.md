@@ -3,7 +3,7 @@
 
 ---
 
-## **Anomaly-8302: Dimensional Shambler**
+## **Anomaly Designation: Anomaly-8302 "Dimensional Shambler"**
 
 ## **Object Class: Keter**
 
